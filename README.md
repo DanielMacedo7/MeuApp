@@ -1,4 +1,4 @@
-### Projeto TodoApp proposto Pelo Curso Lógica de Progamação e Algorítmos I, II E III - Proway Treinamentos Tecnologia-
+### Projeto TodoApp proposto Pelo Curso Lógica de Progamação e Algorítmos I, II E III - Proway Treinamentos Tecnologia- (CRUD)
 
 ## A proposta do Projeto foi criar um Sistema Desktop utilizando a Línguagem de Programação Java OO(Orientada a Objetos) e no Padrão MVC.
 

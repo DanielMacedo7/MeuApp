@@ -15,4 +15,4 @@
 ## Exercícios POO
 ## Interfaces Gráficas
 
-![Texto Alternativo da Imagem](https://prnt.sc/CZ3jdwyJA3zh)
+

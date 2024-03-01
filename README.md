@@ -15,5 +15,5 @@
 ## Exercícios POO
 ## Interfaces Gráficas
 
-![Logo do Meu Projeto]()
+![Logo do Meu Projeto](MeuApp/WhatsApp Image 2024-02-29 at 14.04.38.jpeg)
 

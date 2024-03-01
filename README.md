@@ -15,4 +15,4 @@
 ## Exercícios POO
 ## Interfaces Gráficas
 
-<img align="center" alt="Tela Main" src="https://prnt.sc/CZ3jdwyJA3zh"/>
+![Texto Alternativo da Imagem](https://prnt.sc/CZ3jdwyJA3zh)

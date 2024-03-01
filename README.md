@@ -15,5 +15,5 @@
 ## Exercícios POO
 ## Interfaces Gráficas
 
-![Logo do Meu Projeto](MeuApp/WhatsApp Image 2024-02-29 at 14.04.38.jpeg)
+![Logo do Meu Projeto](https://github.com/DanielMacedo7/MeuApp/blob/70c4a1e3d74c4e6e67491662cfdb21907d0a95b7/WhatsApp%20Image%202024-02-29%20at%2014.04.38.jpeg)
 

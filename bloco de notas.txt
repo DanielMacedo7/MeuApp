@@ -1,0 +1,43 @@
+ProjetoApp
+Aplicação para Gerenciamento de Projetos e as Tarefas incluidas nesse Projeto.
+
+Objetivo: Resolver a questão de organização de um ou vários Projetos..
+
+Entidades:
+
+Projetos; // Atributos
+Nome
+Descrição
+Data de Criação
+Data de Atualização
+Tarefas; // Atributos
+Nome
+Descrição
+Status
+Observações
+Prazo
+Data de Criação
+Data de Atualização
+Requisitos:
+
+Permitir Criar Projeto;
+
+Permitir Alterar Projeto;
+
+Permitir Deletar Projeto;
+
+Permitir Criar Tarefa;
+
+Permitir Alterar Tarefa;
+
+Permitir Deletar Tarefa;
+
+Regras de Negócio:
+
+O Sistema Não irá conter um sistema de login
+Não Haverá o Conceito de Usuário
+Toda Tarefa deve pertencer a um Projeto
+Tecnologias Utilizadas:
+
+Java
+MySql

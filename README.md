@@ -17,7 +17,7 @@
 
 ![Tela Início](https://github.com/DanielMacedo7/MeuApp/blob/70c4a1e3d74c4e6e67491662cfdb21907d0a95b7/WhatsApp%20Image%202024-02-29%20at%2014.04.38.jpeg)
 
-![Cadastro de Projeto](https://github.com/DanielMacedo7/MeuApp/blob/afb6ca0f6b88fa9210ce88de2195ba04225a9956/WhatsApp%20Image%202024-02-29%20at%2014.04.39.jpeg)
+![Cadastro de Projeto](https://github.com/DanielMacedo7/MeuApp/blob/afb6ca0f6b88fa9210ce88de2195ba04225a9956/WhatsApp%20Image%202024-02-29%20at%2014.04.39.jpeg) ![Cadastro de Tarefa](https://github.com/DanielMacedo7/MeuApp/blob/afb6ca0f6b88fa9210ce88de2195ba04225a9956/WhatsApp%20Image%202024-02-29%20at%2014.04.40.jpeg)****
 
-![Cadastro de Tarefa](https://github.com/DanielMacedo7/MeuApp/blob/afb6ca0f6b88fa9210ce88de2195ba04225a9956/WhatsApp%20Image%202024-02-29%20at%2014.04.40.jpeg)
+
 
